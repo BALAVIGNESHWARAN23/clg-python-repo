@@ -14,3 +14,4 @@ elif(age>=20 and age<=64):
     print("Adult")
 elif(age>=65):
     print("Senior")
+
